@@ -11,4 +11,4 @@ SkriptInsight is an attempt to provide a better, smart experience for Skript dev
 
 ## License
 SkriptInsight is licensed under the [GPLv3](https://opensource.org/licenses/GPL-3.0) License.
-See the [LICENSE] file for more details.
+See the [LICENSE](LICENSE) file for more details.
